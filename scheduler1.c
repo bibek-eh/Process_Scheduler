@@ -1,3 +1,7 @@
+/*
+This program shows actually how the logic of both FCFS & Round Robin works actually its all done using basic concepts of programming of C...
+*/
+
 #include<stdio.h>
 
 int FCFS();
