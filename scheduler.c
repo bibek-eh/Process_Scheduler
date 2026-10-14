@@ -1,3 +1,7 @@
+/*
+This is the actual program that interacts with memory to show the custom user-space process scheduler for Linux.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
