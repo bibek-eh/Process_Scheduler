@@ -1,3 +1,7 @@
+/*
+    This is a C program to show first come first serve (FCFS) algrithm of CPU scheduler............ 
+    */
+
 #include<stdio.h>
 #include<conio.h>
 
