@@ -1,5 +1,5 @@
 /*
-    This is a C program to show first come first serve (FCFS) algrithm of CPU scheduler............ 
+    This is a C program to show first come first serve (FCFS) algorithm of CPU scheduler............ 
     */
 
 #include<stdio.h>
